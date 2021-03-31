@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953163143849",
+    "project_id": "smoker-reducer",
+    "storage_bucket": "smoker-reducer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953163143849:android:3dab16dd39ff67cfae27b8",
+        "android_client_info": {
+          "package_name": "com.example.reduce_cigarettes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953163143849-qao50isllqo5ogsqp1gug5mjnt9n5dvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL33LVE6mnzPxPepFmH1uZW4DkLvo5tDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953163143849-qao50isllqo5ogsqp1gug5mjnt9n5dvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
